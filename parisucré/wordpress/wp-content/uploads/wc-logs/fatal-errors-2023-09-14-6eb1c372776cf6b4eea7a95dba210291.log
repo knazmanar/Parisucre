@@ -1,0 +1,244 @@
+2023-09-14T08:09:18+00:00 CRITICAL Uncaught ArgumentCountError: 11 arguments are required, 1 given in C:\xampp\htdocs\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php:2646
+Stack trace:
+#0 C:\xampp\htdocs\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php(2646): sprintf('<div class="not...')
+#1 C:\xampp\htdocs\parisucré\wordpress\wp-includes\class-wp-hook.php(310): Astra_Sites->admin_welcome_notices('')
+#2 C:\xampp\htdocs\parisucré\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\parisucré\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\parisucré\wordpress\wp-admin\admin-header.php(303): do_action('admin_notices')
+#5 C:\xampp\htdocs\parisucré\wordpress\wp-admin\index.php(137): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown dans C:\xampp\htdocs\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php à la ligne 2646
+
+2023-09-14T08:09:48+00:00 CRITICAL Uncaught ArgumentCountError: 11 arguments are required, 1 given in C:\xampp\htdocs\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php:2646
+Stack trace:
+#0 C:\xampp\htdocs\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php(2646): sprintf('<div class="not...')
+#1 C:\xampp\htdocs\parisucré\wordpress\wp-includes\class-wp-hook.php(310): Astra_Sites->admin_welcome_notices('')
+#2 C:\xampp\htdocs\parisucré\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\parisucré\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\parisucré\wordpress\wp-admin\admin-header.php(303): do_action('admin_notices')
+#5 C:\xampp\htdocs\parisucré\wordpress\wp-admin\index.php(137): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown dans C:\xampp\htdocs\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php à la ligne 2646
+
+2023-09-14T08:14:53+00:00 CRITICAL Uncaught ArgumentCountError: 11 arguments are required, 1 given in C:\xampp\htdocs\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php:2646
+Stack trace:
+#0 C:\xampp\htdocs\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php(2646): sprintf('<div class="not...')
+#1 C:\xampp\htdocs\parisucré\wordpress\wp-includes\class-wp-hook.php(310): Astra_Sites->admin_welcome_notices('')
+#2 C:\xampp\htdocs\parisucré\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\parisucré\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\parisucré\wordpress\wp-admin\admin-header.php(303): do_action('admin_notices')
+#5 C:\xampp\htdocs\parisucré\wordpress\wp-admin\index.php(137): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown dans C:\xampp\htdocs\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php à la ligne 2646
+
+2023-09-14T08:22:35+00:00 CRITICAL Uncaught ArgumentCountError: 11 arguments are required, 1 given in C:\xampp\htdocs\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php:2646
+Stack trace:
+#0 C:\xampp\htdocs\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php(2646): sprintf('<div class="not...')
+#1 C:\xampp\htdocs\parisucré\wordpress\wp-includes\class-wp-hook.php(310): Astra_Sites->admin_welcome_notices('')
+#2 C:\xampp\htdocs\parisucré\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\parisucré\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\parisucré\wordpress\wp-admin\admin-header.php(303): do_action('admin_notices')
+#5 C:\xampp\htdocs\parisucré\wordpress\wp-admin\index.php(137): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown dans C:\xampp\htdocs\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php à la ligne 2646
+
+2023-09-14T08:28:37+00:00 CRITICAL Uncaught ArgumentCountError: 11 arguments are required, 1 given in C:\xampp\htdocs\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php:2646
+Stack trace:
+#0 C:\xampp\htdocs\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php(2646): sprintf('<div class="not...')
+#1 C:\xampp\htdocs\parisucré\wordpress\wp-includes\class-wp-hook.php(310): Astra_Sites->admin_welcome_notices('')
+#2 C:\xampp\htdocs\parisucré\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\parisucré\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\parisucré\wordpress\wp-admin\admin-header.php(303): do_action('admin_notices')
+#5 C:\xampp\htdocs\parisucré\wordpress\wp-admin\index.php(137): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown dans C:\xampp\htdocs\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php à la ligne 2646
+
+2023-09-14T08:37:32+00:00 CRITICAL Uncaught ArgumentCountError: 11 arguments are required, 1 given in C:\xampp\htdocs\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php:2646
+Stack trace:
+#0 C:\xampp\htdocs\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php(2646): sprintf('<div class="not...')
+#1 C:\xampp\htdocs\parisucré\wordpress\wp-includes\class-wp-hook.php(310): Astra_Sites->admin_welcome_notices('')
+#2 C:\xampp\htdocs\parisucré\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\parisucré\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\parisucré\wordpress\wp-admin\admin-header.php(303): do_action('admin_notices')
+#5 C:\xampp\htdocs\parisucré\wordpress\wp-admin\index.php(137): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown dans C:\xampp\htdocs\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php à la ligne 2646
+
+2023-09-14T08:44:31+00:00 CRITICAL Uncaught ArgumentCountError: 11 arguments are required, 1 given in C:\xampp\htdocs\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php:2646
+Stack trace:
+#0 C:\xampp\htdocs\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php(2646): sprintf('<div class="not...')
+#1 C:\xampp\htdocs\parisucré\wordpress\wp-includes\class-wp-hook.php(310): Astra_Sites->admin_welcome_notices('')
+#2 C:\xampp\htdocs\parisucré\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\parisucré\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\parisucré\wordpress\wp-admin\admin-header.php(303): do_action('admin_notices')
+#5 C:\xampp\htdocs\parisucré\wordpress\wp-admin\index.php(137): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown dans C:\xampp\htdocs\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php à la ligne 2646
+
+2023-09-14T09:00:24+00:00 CRITICAL Uncaught ArgumentCountError: 11 arguments are required, 1 given in C:\xampp\htdocs\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php:2646
+Stack trace:
+#0 C:\xampp\htdocs\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php(2646): sprintf('<div class="not...')
+#1 C:\xampp\htdocs\parisucré\wordpress\wp-includes\class-wp-hook.php(310): Astra_Sites->admin_welcome_notices('')
+#2 C:\xampp\htdocs\parisucré\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\parisucré\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\parisucré\wordpress\wp-admin\admin-header.php(303): do_action('admin_notices')
+#5 C:\xampp\htdocs\parisucré\wordpress\wp-admin\index.php(137): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown dans C:\xampp\htdocs\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php à la ligne 2646
+
+2023-09-14T09:08:48+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\parisucré\wordpress\wp-content\plugins\pinterest-for-woocommerce\src\TrackerSnapshot.php à la ligne 12
+
+2023-09-14T09:32:44+00:00 CRITICAL Uncaught ArgumentCountError: 11 arguments are required, 1 given in C:\xampp\htdocs\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php:2646
+Stack trace:
+#0 C:\xampp\htdocs\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php(2646): sprintf('<div class="not...')
+#1 C:\xampp\htdocs\parisucré\wordpress\wp-includes\class-wp-hook.php(310): Astra_Sites->admin_welcome_notices('')
+#2 C:\xampp\htdocs\parisucré\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\parisucré\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\parisucré\wordpress\wp-admin\admin-header.php(303): do_action('admin_notices')
+#5 C:\xampp\htdocs\parisucré\wordpress\wp-admin\index.php(137): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown dans C:\xampp\htdocs\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php à la ligne 2646
+
+2023-09-14T09:32:45+00:00 CRITICAL Uncaught ArgumentCountError: 11 arguments are required, 1 given in C:\xampp\htdocs\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php:2646
+Stack trace:
+#0 C:\xampp\htdocs\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php(2646): sprintf('<div class="not...')
+#1 C:\xampp\htdocs\parisucré\wordpress\wp-includes\class-wp-hook.php(310): Astra_Sites->admin_welcome_notices('')
+#2 C:\xampp\htdocs\parisucré\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\parisucré\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\parisucré\wordpress\wp-admin\admin-header.php(303): do_action('admin_notices')
+#5 C:\xampp\htdocs\parisucré\wordpress\wp-admin\index.php(137): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown dans C:\xampp\htdocs\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php à la ligne 2646
+
+2023-09-14T13:08:42+00:00 CRITICAL Uncaught ArgumentCountError: 11 arguments are required, 1 given in C:\xampp\htdocs\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php:2646
+Stack trace:
+#0 C:\xampp\htdocs\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php(2646): sprintf('<div class="not...')
+#1 C:\xampp\htdocs\parisucré\wordpress\wp-includes\class-wp-hook.php(310): Astra_Sites->admin_welcome_notices('')
+#2 C:\xampp\htdocs\parisucré\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\parisucré\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\parisucré\wordpress\wp-admin\admin-header.php(303): do_action('admin_notices')
+#5 C:\xampp\htdocs\parisucré\wordpress\wp-admin\index.php(137): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown dans C:\xampp\htdocs\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php à la ligne 2646
+
+2023-09-14T13:08:43+00:00 CRITICAL Uncaught ArgumentCountError: 11 arguments are required, 1 given in C:\xampp\htdocs\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php:2646
+Stack trace:
+#0 C:\xampp\htdocs\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php(2646): sprintf('<div class="not...')
+#1 C:\xampp\htdocs\parisucré\wordpress\wp-includes\class-wp-hook.php(310): Astra_Sites->admin_welcome_notices('')
+#2 C:\xampp\htdocs\parisucré\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\parisucré\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\parisucré\wordpress\wp-admin\admin-header.php(303): do_action('admin_notices')
+#5 C:\xampp\htdocs\parisucré\wordpress\wp-admin\index.php(137): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown dans C:\xampp\htdocs\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php à la ligne 2646
+
+2023-09-14T13:10:21+00:00 CRITICAL Uncaught ArgumentCountError: 11 arguments are required, 1 given in C:\xampp\htdocs\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php:2646
+Stack trace:
+#0 C:\xampp\htdocs\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php(2646): sprintf('<div class="not...')
+#1 C:\xampp\htdocs\parisucré\wordpress\wp-includes\class-wp-hook.php(310): Astra_Sites->admin_welcome_notices('')
+#2 C:\xampp\htdocs\parisucré\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\parisucré\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\parisucré\wordpress\wp-admin\admin-header.php(303): do_action('admin_notices')
+#5 C:\xampp\htdocs\parisucré\wordpress\wp-admin\index.php(137): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown dans C:\xampp\htdocs\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php à la ligne 2646
+
+2023-09-14T13:17:31+00:00 CRITICAL Uncaught ArgumentCountError: 11 arguments are required, 1 given in C:\xampp\htdocs\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php:2646
+Stack trace:
+#0 C:\xampp\htdocs\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php(2646): sprintf('<div class="not...')
+#1 C:\xampp\htdocs\parisucré\wordpress\wp-includes\class-wp-hook.php(310): Astra_Sites->admin_welcome_notices('')
+#2 C:\xampp\htdocs\parisucré\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\parisucré\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\parisucré\wordpress\wp-admin\admin-header.php(303): do_action('admin_notices')
+#5 C:\xampp\htdocs\parisucré\wordpress\wp-admin\index.php(137): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown dans C:\xampp\htdocs\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php à la ligne 2646
+
+2023-09-14T13:19:21+00:00 CRITICAL Uncaught ArgumentCountError: 11 arguments are required, 1 given in C:\xampp\htdocs\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php:2646
+Stack trace:
+#0 C:\xampp\htdocs\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php(2646): sprintf('<div class="not...')
+#1 C:\xampp\htdocs\parisucré\wordpress\wp-includes\class-wp-hook.php(310): Astra_Sites->admin_welcome_notices('')
+#2 C:\xampp\htdocs\parisucré\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\parisucré\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\parisucré\wordpress\wp-admin\admin-header.php(303): do_action('admin_notices')
+#5 C:\xampp\htdocs\parisucré\wordpress\wp-admin\index.php(137): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown dans C:\xampp\htdocs\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php à la ligne 2646
+
+2023-09-14T13:24:37+00:00 CRITICAL Uncaught ArgumentCountError: 11 arguments are required, 1 given in C:\xampp\htdocs\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php:2646
+Stack trace:
+#0 C:\xampp\htdocs\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php(2646): sprintf('<div class="not...')
+#1 C:\xampp\htdocs\parisucré\wordpress\wp-includes\class-wp-hook.php(310): Astra_Sites->admin_welcome_notices('')
+#2 C:\xampp\htdocs\parisucré\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\parisucré\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\parisucré\wordpress\wp-admin\admin-header.php(303): do_action('admin_notices')
+#5 C:\xampp\htdocs\parisucré\wordpress\wp-admin\index.php(137): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown dans C:\xampp\htdocs\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php à la ligne 2646
+
+2023-09-14T13:38:01+00:00 CRITICAL Uncaught ArgumentCountError: 11 arguments are required, 1 given in C:\xampp\htdocs\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php:2646
+Stack trace:
+#0 C:\xampp\htdocs\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php(2646): sprintf('<div class="not...')
+#1 C:\xampp\htdocs\parisucré\wordpress\wp-includes\class-wp-hook.php(310): Astra_Sites->admin_welcome_notices('')
+#2 C:\xampp\htdocs\parisucré\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\parisucré\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\parisucré\wordpress\wp-admin\admin-header.php(303): do_action('admin_notices')
+#5 C:\xampp\htdocs\parisucré\wordpress\wp-admin\index.php(137): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown dans C:\xampp\htdocs\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php à la ligne 2646
+
+2023-09-14T13:40:36+00:00 CRITICAL Uncaught ArgumentCountError: 11 arguments are required, 1 given in C:\xampp\htdocs\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php:2646
+Stack trace:
+#0 C:\xampp\htdocs\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php(2646): sprintf('<div class="not...')
+#1 C:\xampp\htdocs\parisucré\wordpress\wp-includes\class-wp-hook.php(310): Astra_Sites->admin_welcome_notices('')
+#2 C:\xampp\htdocs\parisucré\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\parisucré\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\parisucré\wordpress\wp-admin\admin-header.php(303): do_action('admin_notices')
+#5 C:\xampp\htdocs\parisucré\wordpress\wp-admin\index.php(137): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown dans C:\xampp\htdocs\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php à la ligne 2646
+
+2023-09-14T13:43:53+00:00 CRITICAL Uncaught ArgumentCountError: 11 arguments are required, 1 given in C:\xampp\htdocs\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php:2646
+Stack trace:
+#0 C:\xampp\htdocs\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php(2646): sprintf('<div class="not...')
+#1 C:\xampp\htdocs\parisucré\wordpress\wp-includes\class-wp-hook.php(310): Astra_Sites->admin_welcome_notices('')
+#2 C:\xampp\htdocs\parisucré\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\parisucré\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\parisucré\wordpress\wp-admin\admin-header.php(303): do_action('admin_notices')
+#5 C:\xampp\htdocs\parisucré\wordpress\wp-admin\index.php(137): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown dans C:\xampp\htdocs\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php à la ligne 2646
+
+2023-09-14T15:15:40+00:00 CRITICAL Uncaught ArgumentCountError: 11 arguments are required, 1 given in C:\xampp\htdocs\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php:2646
+Stack trace:
+#0 C:\xampp\htdocs\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php(2646): sprintf('<div class="not...')
+#1 C:\xampp\htdocs\parisucré\wordpress\wp-includes\class-wp-hook.php(310): Astra_Sites->admin_welcome_notices('')
+#2 C:\xampp\htdocs\parisucré\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\parisucré\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\parisucré\wordpress\wp-admin\admin-header.php(303): do_action('admin_notices')
+#5 C:\xampp\htdocs\parisucré\wordpress\wp-admin\index.php(137): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown dans C:\xampp\htdocs\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php à la ligne 2646
+
+2023-09-14T15:44:19+00:00 CRITICAL Uncaught ArgumentCountError: 11 arguments are required, 1 given in C:\xampp\htdocs\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php:2646
+Stack trace:
+#0 C:\xampp\htdocs\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php(2646): sprintf('<div class="not...')
+#1 C:\xampp\htdocs\parisucré\wordpress\wp-includes\class-wp-hook.php(310): Astra_Sites->admin_welcome_notices('')
+#2 C:\xampp\htdocs\parisucré\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\parisucré\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\parisucré\wordpress\wp-admin\admin-header.php(303): do_action('admin_notices')
+#5 C:\xampp\htdocs\parisucré\wordpress\wp-admin\index.php(137): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown dans C:\xampp\htdocs\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php à la ligne 2646
+
+2023-09-14T15:57:53+00:00 CRITICAL Uncaught ArgumentCountError: 11 arguments are required, 1 given in C:\xampp\htdocs\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php:2646
+Stack trace:
+#0 C:\xampp\htdocs\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php(2646): sprintf('<div class="not...')
+#1 C:\xampp\htdocs\parisucré\wordpress\wp-includes\class-wp-hook.php(310): Astra_Sites->admin_welcome_notices('')
+#2 C:\xampp\htdocs\parisucré\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\parisucré\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\parisucré\wordpress\wp-admin\admin-header.php(303): do_action('admin_notices')
+#5 C:\xampp\htdocs\parisucré\wordpress\wp-admin\index.php(137): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown dans C:\xampp\htdocs\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php à la ligne 2646
+

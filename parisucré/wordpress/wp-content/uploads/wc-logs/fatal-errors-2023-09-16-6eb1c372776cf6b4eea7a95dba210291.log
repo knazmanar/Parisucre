@@ -1,0 +1,165 @@
+2023-09-16T07:16:39+00:00 CRITICAL Uncaught ArgumentCountError: 11 arguments are required, 1 given in C:\wamp64\www\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php:2691
+Stack trace:
+#0 C:\wamp64\www\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php(2691): sprintf('<div class="not...')
+#1 C:\wamp64\www\parisucré\wordpress\wp-includes\class-wp-hook.php(310): Astra_Sites->admin_welcome_notices('')
+#2 C:\wamp64\www\parisucré\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#3 C:\wamp64\www\parisucré\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\wamp64\www\parisucré\wordpress\wp-admin\admin-header.php(303): do_action('admin_notices')
+#5 C:\wamp64\www\parisucré\wordpress\wp-admin\index.php(137): require_once('C:\\wamp64\\www\\p...')
+#6 {main}
+  thrown dans C:\wamp64\www\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php à la ligne 2691
+
+2023-09-16T07:17:28+00:00 CRITICAL Uncaught ArgumentCountError: 11 arguments are required, 1 given in C:\wamp64\www\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php:2691
+Stack trace:
+#0 C:\wamp64\www\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php(2691): sprintf('<div class="not...')
+#1 C:\wamp64\www\parisucré\wordpress\wp-includes\class-wp-hook.php(310): Astra_Sites->admin_welcome_notices('')
+#2 C:\wamp64\www\parisucré\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#3 C:\wamp64\www\parisucré\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\wamp64\www\parisucré\wordpress\wp-admin\admin-header.php(303): do_action('admin_notices')
+#5 C:\wamp64\www\parisucré\wordpress\wp-admin\index.php(137): require_once('C:\\wamp64\\www\\p...')
+#6 {main}
+  thrown dans C:\wamp64\www\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php à la ligne 2691
+
+2023-09-16T07:24:23+00:00 CRITICAL Uncaught ArgumentCountError: 11 arguments are required, 1 given in C:\wamp64\www\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php:2691
+Stack trace:
+#0 C:\wamp64\www\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php(2691): sprintf('<div class="not...')
+#1 C:\wamp64\www\parisucré\wordpress\wp-includes\class-wp-hook.php(310): Astra_Sites->admin_welcome_notices('')
+#2 C:\wamp64\www\parisucré\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#3 C:\wamp64\www\parisucré\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\wamp64\www\parisucré\wordpress\wp-admin\admin-header.php(303): do_action('admin_notices')
+#5 C:\wamp64\www\parisucré\wordpress\wp-admin\index.php(137): require_once('C:\\wamp64\\www\\p...')
+#6 {main}
+  thrown dans C:\wamp64\www\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php à la ligne 2691
+
+2023-09-16T07:27:59+00:00 CRITICAL Uncaught ArgumentCountError: 11 arguments are required, 1 given in C:\wamp64\www\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php:2691
+Stack trace:
+#0 C:\wamp64\www\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php(2691): sprintf('<div class="not...')
+#1 C:\wamp64\www\parisucré\wordpress\wp-includes\class-wp-hook.php(310): Astra_Sites->admin_welcome_notices('')
+#2 C:\wamp64\www\parisucré\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#3 C:\wamp64\www\parisucré\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\wamp64\www\parisucré\wordpress\wp-admin\admin-header.php(303): do_action('admin_notices')
+#5 C:\wamp64\www\parisucré\wordpress\wp-admin\index.php(137): require_once('C:\\wamp64\\www\\p...')
+#6 {main}
+  thrown dans C:\wamp64\www\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php à la ligne 2691
+
+2023-09-16T07:33:19+00:00 CRITICAL Uncaught ArgumentCountError: 11 arguments are required, 1 given in C:\wamp64\www\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php:2691
+Stack trace:
+#0 C:\wamp64\www\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php(2691): sprintf('<div class="not...')
+#1 C:\wamp64\www\parisucré\wordpress\wp-includes\class-wp-hook.php(310): Astra_Sites->admin_welcome_notices('')
+#2 C:\wamp64\www\parisucré\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#3 C:\wamp64\www\parisucré\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\wamp64\www\parisucré\wordpress\wp-admin\admin-header.php(303): do_action('admin_notices')
+#5 C:\wamp64\www\parisucré\wordpress\wp-admin\index.php(137): require_once('C:\\wamp64\\www\\p...')
+#6 {main}
+  thrown dans C:\wamp64\www\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php à la ligne 2691
+
+2023-09-16T07:56:05+00:00 CRITICAL Uncaught ArgumentCountError: 11 arguments are required, 1 given in C:\wamp64\www\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php:2691
+Stack trace:
+#0 C:\wamp64\www\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php(2691): sprintf('<div class="not...')
+#1 C:\wamp64\www\parisucré\wordpress\wp-includes\class-wp-hook.php(310): Astra_Sites->admin_welcome_notices('')
+#2 C:\wamp64\www\parisucré\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#3 C:\wamp64\www\parisucré\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\wamp64\www\parisucré\wordpress\wp-admin\admin-header.php(303): do_action('admin_notices')
+#5 C:\wamp64\www\parisucré\wordpress\wp-admin\index.php(137): require_once('C:\\wamp64\\www\\p...')
+#6 {main}
+  thrown dans C:\wamp64\www\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php à la ligne 2691
+
+2023-09-16T08:51:19+00:00 CRITICAL Uncaught ArgumentCountError: 11 arguments are required, 1 given in C:\wamp64\www\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php:2691
+Stack trace:
+#0 C:\wamp64\www\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php(2691): sprintf('<div class="not...')
+#1 C:\wamp64\www\parisucré\wordpress\wp-includes\class-wp-hook.php(310): Astra_Sites->admin_welcome_notices('')
+#2 C:\wamp64\www\parisucré\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#3 C:\wamp64\www\parisucré\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\wamp64\www\parisucré\wordpress\wp-admin\admin-header.php(303): do_action('admin_notices')
+#5 C:\wamp64\www\parisucré\wordpress\wp-admin\index.php(137): require_once('C:\\wamp64\\www\\p...')
+#6 {main}
+  thrown dans C:\wamp64\www\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php à la ligne 2691
+
+2023-09-16T08:51:25+00:00 CRITICAL Uncaught ArgumentCountError: 11 arguments are required, 1 given in C:\wamp64\www\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php:2691
+Stack trace:
+#0 C:\wamp64\www\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php(2691): sprintf('<div class="not...')
+#1 C:\wamp64\www\parisucré\wordpress\wp-includes\class-wp-hook.php(310): Astra_Sites->admin_welcome_notices('')
+#2 C:\wamp64\www\parisucré\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#3 C:\wamp64\www\parisucré\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\wamp64\www\parisucré\wordpress\wp-admin\admin-header.php(303): do_action('admin_notices')
+#5 C:\wamp64\www\parisucré\wordpress\wp-admin\index.php(137): require_once('C:\\wamp64\\www\\p...')
+#6 {main}
+  thrown dans C:\wamp64\www\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php à la ligne 2691
+
+2023-09-16T08:59:04+00:00 CRITICAL Uncaught ArgumentCountError: 11 arguments are required, 1 given in C:\wamp64\www\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php:2691
+Stack trace:
+#0 C:\wamp64\www\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php(2691): sprintf('<div class="not...')
+#1 C:\wamp64\www\parisucré\wordpress\wp-includes\class-wp-hook.php(310): Astra_Sites->admin_welcome_notices('')
+#2 C:\wamp64\www\parisucré\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#3 C:\wamp64\www\parisucré\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\wamp64\www\parisucré\wordpress\wp-admin\admin-header.php(303): do_action('admin_notices')
+#5 C:\wamp64\www\parisucré\wordpress\wp-admin\index.php(137): require_once('C:\\wamp64\\www\\p...')
+#6 {main}
+  thrown dans C:\wamp64\www\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php à la ligne 2691
+
+2023-09-16T09:06:18+00:00 CRITICAL Uncaught ArgumentCountError: 11 arguments are required, 1 given in C:\wamp64\www\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php:2691
+Stack trace:
+#0 C:\wamp64\www\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php(2691): sprintf('<div class="not...')
+#1 C:\wamp64\www\parisucré\wordpress\wp-includes\class-wp-hook.php(310): Astra_Sites->admin_welcome_notices('')
+#2 C:\wamp64\www\parisucré\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#3 C:\wamp64\www\parisucré\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\wamp64\www\parisucré\wordpress\wp-admin\admin-header.php(303): do_action('admin_notices')
+#5 C:\wamp64\www\parisucré\wordpress\wp-admin\index.php(137): require_once('C:\\wamp64\\www\\p...')
+#6 {main}
+  thrown dans C:\wamp64\www\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php à la ligne 2691
+
+2023-09-16T09:10:52+00:00 CRITICAL Uncaught ArgumentCountError: 11 arguments are required, 1 given in C:\wamp64\www\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php:2691
+Stack trace:
+#0 C:\wamp64\www\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php(2691): sprintf('<div class="not...')
+#1 C:\wamp64\www\parisucré\wordpress\wp-includes\class-wp-hook.php(310): Astra_Sites->admin_welcome_notices('')
+#2 C:\wamp64\www\parisucré\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#3 C:\wamp64\www\parisucré\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\wamp64\www\parisucré\wordpress\wp-admin\admin-header.php(303): do_action('admin_notices')
+#5 C:\wamp64\www\parisucré\wordpress\wp-admin\index.php(137): require_once('C:\\wamp64\\www\\p...')
+#6 {main}
+  thrown dans C:\wamp64\www\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php à la ligne 2691
+
+2023-09-16T09:42:35+00:00 CRITICAL Uncaught ArgumentCountError: 11 arguments are required, 1 given in C:\wamp64\www\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php:2691
+Stack trace:
+#0 C:\wamp64\www\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php(2691): sprintf('<div class="not...')
+#1 C:\wamp64\www\parisucré\wordpress\wp-includes\class-wp-hook.php(310): Astra_Sites->admin_welcome_notices('')
+#2 C:\wamp64\www\parisucré\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#3 C:\wamp64\www\parisucré\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\wamp64\www\parisucré\wordpress\wp-admin\admin-header.php(303): do_action('admin_notices')
+#5 C:\wamp64\www\parisucré\wordpress\wp-admin\index.php(137): require_once('C:\\wamp64\\www\\p...')
+#6 {main}
+  thrown dans C:\wamp64\www\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php à la ligne 2691
+
+2023-09-16T09:57:39+00:00 CRITICAL Uncaught ArgumentCountError: 11 arguments are required, 1 given in C:\wamp64\www\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php:2691
+Stack trace:
+#0 C:\wamp64\www\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php(2691): sprintf('<div class="not...')
+#1 C:\wamp64\www\parisucré\wordpress\wp-includes\class-wp-hook.php(310): Astra_Sites->admin_welcome_notices('')
+#2 C:\wamp64\www\parisucré\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#3 C:\wamp64\www\parisucré\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\wamp64\www\parisucré\wordpress\wp-admin\admin-header.php(303): do_action('admin_notices')
+#5 C:\wamp64\www\parisucré\wordpress\wp-admin\index.php(137): require_once('C:\\wamp64\\www\\p...')
+#6 {main}
+  thrown dans C:\wamp64\www\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php à la ligne 2691
+
+2023-09-16T09:57:39+00:00 CRITICAL Uncaught ArgumentCountError: 11 arguments are required, 1 given in C:\wamp64\www\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php:2691
+Stack trace:
+#0 C:\wamp64\www\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php(2691): sprintf('<div class="not...')
+#1 C:\wamp64\www\parisucré\wordpress\wp-includes\class-wp-hook.php(310): Astra_Sites->admin_welcome_notices('')
+#2 C:\wamp64\www\parisucré\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#3 C:\wamp64\www\parisucré\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\wamp64\www\parisucré\wordpress\wp-admin\admin-header.php(303): do_action('admin_notices')
+#5 C:\wamp64\www\parisucré\wordpress\wp-admin\index.php(137): require_once('C:\\wamp64\\www\\p...')
+#6 {main}
+  thrown dans C:\wamp64\www\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php à la ligne 2691
+
+2023-09-16T10:50:57+00:00 CRITICAL Uncaught ArgumentCountError: 11 arguments are required, 1 given in C:\wamp64\www\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php:2691
+Stack trace:
+#0 C:\wamp64\www\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php(2691): sprintf('<div class="not...')
+#1 C:\wamp64\www\parisucré\wordpress\wp-includes\class-wp-hook.php(310): Astra_Sites->admin_welcome_notices('')
+#2 C:\wamp64\www\parisucré\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#3 C:\wamp64\www\parisucré\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\wamp64\www\parisucré\wordpress\wp-admin\admin-header.php(303): do_action('admin_notices')
+#5 C:\wamp64\www\parisucré\wordpress\wp-admin\index.php(137): require_once('C:\\wamp64\\www\\p...')
+#6 {main}
+  thrown dans C:\wamp64\www\parisucré\wordpress\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php à la ligne 2691
+
